@@ -29,9 +29,9 @@ from numpy import sqrt, sin, cos, tan, radians, pi, sqrt, interp
 import pandas as pd
 
 Pe = 30000                      #W
-ωp = 1180/(2*pi)                #rpm  escolhido no motor elétrico (entrada) - rad/s
+ωp = (1180*2*pi)/60                #rpm  escolhido no motor elétrico (entrada) - rad/s
 Ps = 29400                      #W  
-ωc = 72/(2*pi)                  #rpm (saída) -> rad/s
+ωc = (72*2*pi)/60                  #rpm (saída) -> rad/s
 print("ωp", ωp, "ωc", ωc)
 
 mg = (ωp/ωc)
