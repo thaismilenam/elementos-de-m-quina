@@ -1,12 +1,10 @@
 # elementos-de-máquinas
 
 <div align="justify">A biografia utilizada foi:
-
 NORTON, Rob. Projeto de máquinas: uma abordagem integrada. 2. ed. Porto Alegre, RS: Bookman, 2004. xiii, 931 p. + 1 CD-ROM 4 ¾ pol. ISBN 8536302739. 
-
 SHIGLEY, Joseph Edward; MISCHKE, Charles R.; BUDYNAS, Richard G. Projeto de engenharia mecânica. 7. ed. Porto Alegre: Bookman, 2005. 960 p. ISBN 85-363-0562-2. 
 
-  #<b>Atividade 1</b>
+  ###<b>Atividade 1</b> #####
 
 O eixo de entrada de um compressor será acionado por um redutor com engrenagens. Será utilizado um acoplamento elástico para acoplar o eixo de
 saída do redutor com o eixo de entrada do equipamento. O equipamento operará a 72 rpm e necessitará da potência defina na tabela abaixo, de maneira
@@ -26,7 +24,7 @@ Premissas de Projeto
 4- Deve ter boa eficiência mecânica;
 5- Deve ser compacto;
 
-  #<b>Atividade 2</b>
+  ###<b>Atividade 2</b> #####
 
 Escolha um elemento de transmissão flexível (polia/correia ou corrente de rolos) e o dimensione considerando um fator de segurança igual a 1,8, de forma a
 atender as mesmas condições (rotação, torque etc.) do último par de engrenagens da atividade 1. Entregar os desenhos técnicos de conjunto (mostrando a disposição do sistema escolhido) e detalhados (desenhos para fabricação).
