@@ -1,6 +1,6 @@
 # elementos-de-máquinas
 
-<justify>A biografia utilizada foi:
+<div align="justify">A biografia utilizada foi:
 
 NORTON, Rob. Projeto de máquinas: uma abordagem integrada. 2. ed. Porto Alegre, RS: Bookman, 2004. xiii, 931 p. + 1 CD-ROM 4 ¾ pol. ISBN 8536302739. 
 
@@ -39,4 +39,4 @@ Premissas de Projeto
 5- Deve ser compacto;
 
 
-</justify>
+</div>
