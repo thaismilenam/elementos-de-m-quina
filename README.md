@@ -27,8 +27,10 @@ g) Fazer o modelamento 3D e 2D (vistas ortogonais em folha com legenda) com a di
 
   ### <b>Atividade 2</b> #####
 
-Escolha um elemento de transmissão flexível (polia/correia ou corrente de rolos) e o dimensione considerando um fator de segurança igual a 1,8, de forma a atender as mesmas condições (rotação, torque etc.) do último par de engrenagens da atividade 1. Entregar os desenhos técnicos de conjunto (mostrando a disposição do sistema escolhido) e detalhados (desenhos para fabricação).
-![alt text](atividade_2/1.png)<br>![alt text](atividade_2/2.png)<br>![alt text](atividade_2/3.png)<br>
+Escolha um elemento de transmissão flexível (polia/correia ou corrente de rolos) e o dimensione considerando um fator de segurança igual a 1,8, de forma a atender as mesmas condições (rotação, torque etc.) do último par de engrenagens da atividade 1. Entregar os desenhos técnicos de conjunto (mostrando a disposição do sistema escolhido) e detalhados (desenhos para fabricação).<br>
+![alt text](atividade_2/1.png)<br>!
+[alt text](atividade_2/2.png)<br>
+![alt text](atividade_2/3.png)<br>
 
 
   ### <b>Atividade 3</b> #####
@@ -54,7 +56,8 @@ j) Calcular as deflexões do eixo (por flexão e torção) e as 3 primeiras
 frequências naturais do conjunto eixo + engrenagens. Pode ser feito por
 simulação numérica (apresentar as condições de contorno e resultados
 obtidos).<br>
-![alt text](atividade_3/croqui.jpg)<br>![alt text](atividade_2/elementos-finitos.jpg)<br>
+![alt text](atividade_3/croqui.jpg)<br>
+![alt text](atividade_2/elementos-finitos.jpg)<br>
 
  ### <b>Atividade 4</b> #####
 
