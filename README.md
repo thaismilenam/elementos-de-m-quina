@@ -17,17 +17,19 @@ Premissas de Projeto
 O eixo de entrada de um compressor será acionado por um redutor com engrenagens. Será utilizado um acoplamento elástico para acoplar o eixo de saída do redutor com o eixo de entrada do equipamento. O equipamento operará a 72 rpm e necessitará da potência defina na tabela abaixo, de maneira continua, no seu eixo de saída. O projeto exige que o redutor transmita a potência entre dois eixos paralelos e seja alimentado por um motor elétrico de indução trifásico. Determinar os seguintes itens:<br>
 a) Definir um motor elétrico apropriado que deverá alimentar o redutor de velocidade;<br>
 b) Fazer croqui (à mão livre) do sistema de transmissão de potência por meio de engrenagens de dentes retos mostrando o trem de engrenagem proposto;<br>
-![alt text](atividade_1/croqui.png)
+<div align="center">![alt text](atividade_1/croqui.png)<br></div>
 c) Relações de transmissão de todo o trem de engrenagens;<br>
 d) Principais dimensões geométricas do par de engrenagens que fornece o torque de saída;<br>
 e) Cálculo das tensões de fadiga de flexão e desgaste superficial nas 1,5 engrenagens do item d;
 f) Dimensionamento das engrenagens para um fator de segurança 1,5;<br>
 g) Fazer o modelamento 3D e 2D (vistas ortogonais em folha com legenda) com a disposição das engrenagens.<br>
-![alt text](atividade_1/coroa.png)
+<div align="center">![alt text](atividade_1/coroa.png)<br></div>
 
   ### <b>Atividade 2</b> #####
 
 Escolha um elemento de transmissão flexível (polia/correia ou corrente de rolos) e o dimensione considerando um fator de segurança igual a 1,8, de forma a atender as mesmas condições (rotação, torque etc.) do último par de engrenagens da atividade 1. Entregar os desenhos técnicos de conjunto (mostrando a disposição do sistema escolhido) e detalhados (desenhos para fabricação).
+<div align="center">![alt text](atividade_2/1.png)<br>![alt text](atividade_2/2.png)<br>![alt text](atividade_2/3.png)<br></div>
+
 
   ### <b>Atividade 3</b> #####
 
@@ -52,6 +54,7 @@ j) Calcular as deflexões do eixo (por flexão e torção) e as 3 primeiras
 frequências naturais do conjunto eixo + engrenagens. Pode ser feito por
 simulação numérica (apresentar as condições de contorno e resultados
 obtidos).<br>
+<div align="center">![alt text](atividade_3/croqui.jpg)<br>![alt text](atividade_2/elementos-finitos.jpg)<br></div>
 
  ### <b>Atividade 4</b> #####
 
