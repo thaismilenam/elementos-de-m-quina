@@ -14,18 +14,16 @@ Premissas de Projeto
 
   ### <b>Atividade 1</b> #####
 
-O eixo de entrada de um compressor será acionado por um redutor com engrenagens. Será utilizado um acoplamento elástico para acoplar o eixo de
-saída do redutor com o eixo de entrada do equipamento. O equipamento operará a 72 rpm e necessitará da potência defina na tabela abaixo, de maneira
-continua, no seu eixo de saída. O projeto exige que o redutor transmita a potência entre dois eixos paralelos e seja alimentado por um motor elétrico de indução trifásico. Determinar os seguintes itens:
-a) Definir um motor elétrico apropriado que deverá alimentar o redutor de velocidade;
-b) Fazer croqui (à mão livre) do sistema de transmissão de potência por meio de engrenagens de dentes retos mostrando o trem de engrenagem proposto;
-<img scr="atividade_1/croqui.png">
-c) Relações de transmissão de todo o trem de engrenagens;
-d) Principais dimensões geométricas do par de engrenagens que fornece o torque de saída;
+O eixo de entrada de um compressor será acionado por um redutor com engrenagens. Será utilizado um acoplamento elástico para acoplar o eixo de saída do redutor com o eixo de entrada do equipamento. O equipamento operará a 72 rpm e necessitará da potência defina na tabela abaixo, de maneira continua, no seu eixo de saída. O projeto exige que o redutor transmita a potência entre dois eixos paralelos e seja alimentado por um motor elétrico de indução trifásico. Determinar os seguintes itens:<br>
+a) Definir um motor elétrico apropriado que deverá alimentar o redutor de velocidade;<br>
+b) Fazer croqui (à mão livre) do sistema de transmissão de potência por meio de engrenagens de dentes retos mostrando o trem de engrenagem proposto;<br>
+![alt text](atividade_1/croqui.png)
+c) Relações de transmissão de todo o trem de engrenagens;<br>
+d) Principais dimensões geométricas do par de engrenagens que fornece o torque de saída;<br>
 e) Cálculo das tensões de fadiga de flexão e desgaste superficial nas 1,5 engrenagens do item d;
-f) Dimensionamento das engrenagens para um fator de segurança 1,5;
-g) Fazer o modelamento 3D e 2D (vistas ortogonais em folha com legenda) com a disposição das engrenagens.
-<img scr="atividade_1/coroa.png">
+f) Dimensionamento das engrenagens para um fator de segurança 1,5;<br>
+g) Fazer o modelamento 3D e 2D (vistas ortogonais em folha com legenda) com a disposição das engrenagens.<br>
+![alt text](atividade_1/coroa.png)
 
   ### <b>Atividade 2</b> #####
 
