@@ -66,4 +66,7 @@ a) Selecionar as chavetas apropriadas para o eixo (sob a engrenagem e ponta de e
 <br>c) Recalcular o fator de segurança do eixo para as concentrações de tensão que irão ocorrer (tanto na chaveta quanto nos rolamentos).
 <br>d) Em substituição a chaveta calculada no item a), determinar as tolerâncias de fabricação de forma a gerar a interferência necessária para transmitir o torque entre o eixo e a engrenagem mantendo um fator de segurança mínimo de 1,5.
 
+### <b>Avaliação 1</b> #####
+
+
 </div>
